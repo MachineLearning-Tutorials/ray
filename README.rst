@@ -66,6 +66,7 @@ More Information
 .. _`Blog`: https://ray-project.github.io/
 .. _`Ray paper`: https://arxiv.org/abs/1712.05889
 .. _`Ray HotOS paper`: https://arxiv.org/abs/1703.03924
+..`Param server`: https://ray-project.github.io/2018/07/15/parameter-server-in-fifteen-lines.html
 
 Getting Involved
 ----------------
